@@ -1,0 +1,5 @@
+4
+x_coordinate4 y_coordinate5
+x_coordinate505 y_coordinate1
+x_coordinate510 y_coordinate3
+x_coordinate511 y_coordinate0
